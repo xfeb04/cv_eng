@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrameKittikorn/PrameKittikorn/main/assets/banner.svg" alt="header image" />
+  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -55,8 +55,8 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrameKittikorn&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrameKittikorn&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -69,5 +69,5 @@ _Add 2–4 projects max. Each row should fit on one screen._
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrameKittikorn&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
