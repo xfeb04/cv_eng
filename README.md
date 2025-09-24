@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="2123.png" width="250" height="250" />
+  <img src="2123.png" width="250" height="312" />
 </p>
 
 <h1 align="center">Hi, I’m Worawiboon K <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
