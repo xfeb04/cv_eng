@@ -1,13 +1,13 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="pro_pig" alt="2123.png" />
 </p>
 
 <h1 align="center">Hi, I’m Worawiboon K <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <strong>Backend Developer • API Builder • Problem Solver</strong><br/>
+  <em>“Engineering the core behind the code.”</em>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 ## 🚀 About Me
 - 🌱  I’m currently learning :Springboot,JSP,CSS,JavaScript  
 - 🛠  Tools: Eclipse · VS Code · GitHub  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: fevboily@gmail.com | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 🎯  2025 Goal: Master Spring Boot & Microservices for scalable backend systems  
+- 📫  Reach me: fevboily@gmail.com
 
 ---
 
