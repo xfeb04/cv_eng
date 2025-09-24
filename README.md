@@ -39,21 +39,22 @@
 ---
 
 ## ✍🏻 Languages
--English (Fair)
+-English (Fair) <br>
 -Thai (Good)
 
 ---
 
 ## 📈 Skills
-<div align="center">
-  Hard skills
-  -Robot framework
-  -Github
-  -Microsoft Office
-  Soft skills
-  -Problem solving
-  -Communication
-  -Adaptability
+<div >
+  <h3>Hard skills</h3>
+  -Robot framework<br>
+  -Github<br>
+  -Microsoft Office<br>
+  <br>
+  <h3>Soft skills</h3>
+  -Problem solving<br>
+  -Communication<br>
+  -Adaptability<br>
 </div>
 
 ---
